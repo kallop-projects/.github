@@ -7,4 +7,4 @@
 ## our sponsors
 
 <p><img src="prawnarchy.png" width=64>
-<img src="recska.png" width=64></p>
+<a href="https://recskahost.hu/?utm_source=github.com&utm_medium=social&utm_campaign=kallop"><img src="recska.png" width=64></p>
