@@ -4,3 +4,7 @@
 
 <img align=center src="cat.jpg">
 
+## our sponsors
+
+<p><img src="prawnarchy.png" width=64>
+<img src="recska.png" width=64></p>
