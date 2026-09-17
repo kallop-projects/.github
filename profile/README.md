@@ -2,3 +2,5 @@
 
 <h2 align=center>szf1 titkos projektek szeretettel</h2>
 
+<img src="cat.jpg" align=center>
+
