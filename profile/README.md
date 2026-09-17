@@ -1,6 +1,6 @@
 <h1 align=center>Evil Pollak Projects</h1>
 
-<h2 align=center>szf1 titkos projektek gyűlölettel</h2>
+## szf1 titkos projektek ~~szeretettel~~ gyűlölettel
 
 <img align=center src="cat.jpg">
 
